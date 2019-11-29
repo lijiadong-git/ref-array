@@ -19,7 +19,7 @@
   "dependencies": {
     "array-index": "1",
     "debug": "2",
-    "ref": "1"
+    "ref": "git+https://github.com/lijiadong-git/ref.git"
   },
   "devDependencies": {
     "bindings": "1",
